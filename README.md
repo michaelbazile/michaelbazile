@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**michaelbazile/michaelbazile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... My Professional portfolio website
 - 🌱 I’m currently learning ... System Design / Architecture and a little bit of Rust and IOS development on the side  
 - 👯 I’m looking to collaborate on ... large-scale application to be able to contribute to a more enterprise-level code base
@@ -13,4 +7,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... you can email me from my [portfolio](https://www.michaelbazilejr.bio) or [here](mailto:mr.michaelbazilejr@gmail.com?subject=[GitHub] Source Han Sans)
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Did you know that I once went skydiving? It was an exhilarating experience, jumping out of a plane and freefalling through the sky. The rush of adrenaline and the breathtaking views were absolutely unforgettable!
+<!--
+**michaelbazile/michaelbazile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
