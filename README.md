@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Michael Bazile Jr.
+# Hi there 👋🏿 I'm Michael Bazile Jr.
 
 🚀 I'm a full-stack software engineer focused on building accessible, scalable tools that make a real impact.  
 🧠 Currently engineering school-based mental health solutions at [TRAILS](https://trailstowellness.org) using Next.js, TypeScript, and Strapi.
